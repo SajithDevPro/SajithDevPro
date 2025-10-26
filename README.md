@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development | OOPC | Robotics**
 
-- 📫 How to reach me **poornabandara854@gmail.com**
+- 📫 How to reach me **sj@gmail.com**
   
 - ⚡ Fun fact **Call me as SJ**
 
