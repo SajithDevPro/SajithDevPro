@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate 
 
-- 💬 Ask me about **Web development OOC | Robotics**
+- 💬 Ask me about **Web development | OOC | Mobile Application Development | Robotics**
 
 - 📫 How to reach me **poornabandara854@gmail.com**
   
