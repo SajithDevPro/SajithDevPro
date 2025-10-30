@@ -7,9 +7,9 @@
   
 - 🌱 I’m currently learning **Java**
 
-- 🧑‍🎓 I’m an Undergraduate at **BCU University**
+- 🧑‍🎓 I’m an Undergraduate 
 
-- 💬 Ask me about **Web development | OOPC | Robotics**
+- 💬 Ask me about **Web development OOC | Robotics**
 
 - 📫 How to reach me **poornabandara854@gmail.com**
   
