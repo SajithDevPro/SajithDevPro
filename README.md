@@ -35,8 +35,8 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/22345746/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="30" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="53" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="30" /></a>
+<a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="53" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="" height="53" width="30" /></a>
 </p>
 
