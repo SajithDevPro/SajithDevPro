@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Java**
 
-- 🧑‍🎓 I’m an Undergraduate 
+- 🧑‍🎓 I’m an SE Undergraduate 
 
 - 💬 Ask me about **Web development | OOC | Mobile Application Development | Robotics**
 
