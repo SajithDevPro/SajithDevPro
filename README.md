@@ -6,12 +6,14 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### <h3 align="center">🚀**About Me**</h3>
 <br/>
- 🚀 Undergraduate student passionate about building smart, scalable, and user-focused digital solutions.
- 💻 Enthusiastic about Web Development, Cloud Computing, Robotics, and modern software engineering practices.
- 📚 Currently exploring advanced backend technologies, cloud workflows, and real-world development patterns.
-  🛠️ Enjoy working with new frameworks, experimenting with ideas, and improving my problem-solving skills.
- 🤝 Open to collaboration, learning from others, and contributing to meaningful open-source projects.
- ⚡ Driven by curiosity, creativity, and a strong passion for continuous growth in tech.
+<ul>
+  <li><sub>🤖 <b>Tech Enthusiast:</b> Exploring AI, cloud-native tools, and modern development technologies.</sub></li>
+  <li><sub>☁️ <b>Cloud & Web Focus:</b> Hands-on with web technologies and expanding into cloud workflows.</sub></li>
+  <li><sub>📚 <b>Current Learning:</b> Advanced web development, backend fundamentals, and emerging frameworks.</sub></li>
+  <li><sub>🛠️ <b>Builder Mindset:</b> Always experimenting, improving, and creating impactful digital solutions.</sub></li>
+  <li><sub>🤝 <b>Collaborator:</b> Enjoy working with developers, sharing knowledge, and growing together.</sub></li>
+  <li><sub>🚀 <b>Future Goals:</b> Contribute to open-source, master cloud engineering, and build next-gen tech projects.</sub></li>
+</ul>
  --- 
 <h3 align="center">My Statistics</h3>
 <p align="center">
