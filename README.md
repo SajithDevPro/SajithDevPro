@@ -4,22 +4,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-🚀 Undergraduate student passionate about building smart, scalable, and user-focused digital solutions.
-💻 Enthusiastic about Web Development, Cloud Computing, Robotics, and modern software engineering practices.
-📚 Currently exploring advanced backend technologies, cloud workflows, and real-world development patterns.
-🛠️ Enjoy working with new frameworks, experimenting with ideas, and improving my problem-solving skills.
-🤝 Open to collaboration, learning from others, and contributing to meaningful open-source projects.
-⚡ Driven by curiosity, creativity, and a strong passion for continuous growth in tech.
- --- 
-- 🌱 I’m currently learning **Java**
-
-- 🧑‍🎓 I’m an SE Undergraduate 
-
-- 💬 Ask me about **Web development | OOC | Mobile Application Development | Robotics**
-
-- 📫 How to reach me **GYDz.TRX**
+### 🚀About Me
 ---
+- 🚀 Undergraduate student passionate about building smart, scalable, and user-focused digital solutions.
+- 💻 Enthusiastic about Web Development, Cloud Computing, Robotics, and modern software engineering practices.
+- 📚 Currently exploring advanced backend technologies, cloud workflows, and real-world development patterns.
+- 🛠️ Enjoy working with new frameworks, experimenting with ideas, and improving my problem-solving skills.
+- 🤝 Open to collaboration, learning from others, and contributing to meaningful open-source projects.
+- ⚡ Driven by curiosity, creativity, and a strong passion for continuous growth in tech.
+ --- 
 
 <h3 align="center">My Statistics</h3>
 <p align="center">
