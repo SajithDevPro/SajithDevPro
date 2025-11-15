@@ -54,14 +54,7 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SajithDevPro?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
-</p>
-
-
----
-
+<h3>Contribution</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
