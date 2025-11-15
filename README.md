@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### <h3 align="center">🚀**About Me**</h3>
+### <h3>🚀**About Me**</h3>
 <ul>
   <li>🤖 <b>Tech Enthusiast:</b> Exploring AI, cloud-native tools, and modern development technologies.</li>
   <li>☁️ <b>Cloud & Web Focus:</b> Hands-on with web technologies and expanding into cloud workflows.</li>
