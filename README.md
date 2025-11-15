@@ -5,10 +5,12 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-🚀 Undergraduate student passionate about building things that live on the internet.
-💻 Enthusiastic about Web Development, Cloud Technologies, and Robotics.
-📚 Currently learning new tools & technologies to level up my development journey.
-⚡ Love exploring tech innovations and turning ideas into real-world solutions.
+🚀 Undergraduate student passionate about building smart, scalable, and user-focused digital solutions.
+💻 Enthusiastic about Web Development, Cloud Computing, Robotics, and modern software engineering practices.
+📚 Currently exploring advanced backend technologies, cloud workflows, and real-world development patterns.
+🛠️ Enjoy working with new frameworks, experimenting with ideas, and improving my problem-solving skills.
+🤝 Open to collaboration, learning from others, and contributing to meaningful open-source projects.
+⚡ Driven by curiosity, creativity, and a strong passion for continuous growth in tech.
  --- 
 - 🌱 I’m currently learning **Java**
 
