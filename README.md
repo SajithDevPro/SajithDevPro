@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/stars/SajithDevPro?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
 </p>
 
 
