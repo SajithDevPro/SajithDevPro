@@ -11,10 +11,7 @@
 
 - 💬 Ask me about **Web development | OOC | Mobile Application Development | Robotics**
 
-- 📫 How to reach me **poornabandara854@gmail.com**
-  
-- ⚡ Fun fact **Call me as SJ**
-
+- 📫 How to reach me **GYDz.TRX**
 ---
 
 <h3 align="center">My Statistics</h3>
