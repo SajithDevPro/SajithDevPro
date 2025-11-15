@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-### 🚀About Me
+### <h3 align="center">🚀About Me</h3>
 ---
 - 🚀 Undergraduate student passionate about building smart, scalable, and user-focused digital solutions.
 - 💻 Enthusiastic about Web Development, Cloud Computing, Robotics, and modern software engineering practices.
