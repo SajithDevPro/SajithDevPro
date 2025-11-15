@@ -4,7 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
+
+🚀 Undergraduate student passionate about building things that live on the internet.
+💻 Enthusiastic about Web Development, Cloud Technologies, and Robotics.
+📚 Currently learning new tools & technologies to level up my development journey.
+⚡ Love exploring tech innovations and turning ideas into real-world solutions.
+ --- 
 - 🌱 I’m currently learning **Java**
 
 - 🧑‍🎓 I’m an SE Undergraduate 
