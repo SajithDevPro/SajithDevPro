@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sajith Nuwan</h1>
 <h3 align="center">Full Stack Developer & Robotics Enthusiast | Turning Ideas into Intelligent Applications</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p>
+<p align="center">
+  <!-- Top Row: Profile Views | Role | Focus -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Role-Undergraduate%20Student-blue?style=for-the-badge&logo=github" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%7C%20Cloud%20%7C%20Robotics-green?style=for-the-badge&logo=github" alt="Focus" />
+</p>
+
+<p align="center">
+  <!-- Second Row: Total Stars | Best Tag -->
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Best%20Tag-Tech%20Enthusiast-orange?style=for-the-badge&logo=github" alt="Best Tag" />
+</p>
+
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sajithdevpro&label=Profile%20views&color=0e75b6&style=flat" alt="sajithdevpro" /> </p> -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### <h3>🚀**About Me**</h3>
