@@ -25,7 +25,6 @@
   <li>📚 <b>Current Learning:</b> Advanced web development, backend fundamentals, and emerging frameworks.</li>
   <li>🛠️ <b>Builder Mindset:</b> Always experimenting, improving, and creating impactful digital solutions.</li>
   <li>🤝 <b>Collaborator:</b> Enjoy working with developers, sharing knowledge, and growing together.</li>
-  <li>🚀 <b>Future Goals:</b> Contribute to open-source, master cloud engineering, and build next-gen tech projects.</li>
 </ul>
 
 ---
