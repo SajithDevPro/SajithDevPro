@@ -5,16 +5,17 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ### <h3 align="center">🚀**About Me**</h3>
-<br/>
 <ul>
-  <li><sub>🤖 <b>Tech Enthusiast:</b> Exploring AI, cloud-native tools, and modern development technologies.</sub></li>
-  <li><sub>☁️ <b>Cloud & Web Focus:</b> Hands-on with web technologies and expanding into cloud workflows.</sub></li>
-  <li><sub>📚 <b>Current Learning:</b> Advanced web development, backend fundamentals, and emerging frameworks.</sub></li>
-  <li><sub>🛠️ <b>Builder Mindset:</b> Always experimenting, improving, and creating impactful digital solutions.</sub></li>
-  <li><sub>🤝 <b>Collaborator:</b> Enjoy working with developers, sharing knowledge, and growing together.</sub></li>
-  <li><sub>🚀 <b>Future Goals:</b> Contribute to open-source, master cloud engineering, and build next-gen tech projects.</sub></li>
+  <li>🤖 <b>Tech Enthusiast:</b> Exploring AI, cloud-native tools, and modern development technologies.</li>
+  <li>☁️ <b>Cloud & Web Focus:</b> Hands-on with web technologies and expanding into cloud workflows.</li>
+  <li>📚 <b>Current Learning:</b> Advanced web development, backend fundamentals, and emerging frameworks.</li>
+  <li>🛠️ <b>Builder Mindset:</b> Always experimenting, improving, and creating impactful digital solutions.</li>
+  <li>🤝 <b>Collaborator:</b> Enjoy working with developers, sharing knowledge, and growing together.</li>
+  <li>🚀 <b>Future Goals:</b> Contribute to open-source, master cloud engineering, and build next-gen tech projects.</li>
 </ul>
- --- 
+
+---
+
 <h3 align="center">My Statistics</h3>
 <p align="center">
 </p>
