@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajith Nuwan</h1>
-<h3 align="center">Full Stack Developer & Robotics Enthusiast | Turning Ideas into Intelligent Applications</h3>
+<h3 align="center">Full Stack Developer | Robotics & AI Enthusiast | Cloud Explorer <br>Turning Ideas into Intelligent, Scalable Solutions</h3>
 
 <p align="center">
   <!-- Top Row: Profile Views | Role | Focus -->
@@ -34,7 +34,6 @@
 </p>
 
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=sajithdevpro&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithdevpro&theme=tokyonight&layout=compact)
 
 ---
