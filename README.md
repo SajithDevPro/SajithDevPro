@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Second Row: Total Stars | Best Tag -->
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/SajithDevPro?style=for-the-badge&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Best%20Tag-Tech%20Enthusiast-orange?style=for-the-badge&logo=github" alt="Best Tag" />
 </p>
 
@@ -33,8 +33,8 @@
 <p align="center">
 </p>
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=sajithdevpro&show_icons=true&theme=tokyonight)
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajithdevpro&theme=tokyonight&layout=compact)
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=SajithDevPro&show_icons=true&theme=tokyonight)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithDevPro&theme=tokyonight&layout=compact)
 
 ---
 
