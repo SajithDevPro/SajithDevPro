@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- Second Row: Total Stars | Best Tag -->
-  <img src="https://img.shields.io/github/stars/SajithDevPro?style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/sajithdevpro?style=for-the-badge&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/Best%20Tag-Tech%20Enthusiast-orange?style=for-the-badge&logo=github" alt="Best Tag" />
 </p>
 
