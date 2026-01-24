@@ -4,12 +4,12 @@
 <p align="center">
   <!-- Top Row: Profile Views | Role | Focus -->
   <img src="https://komarev.com/ghpvc/?username=sajithdevpro&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%7C%20Cloud%20%7C%20Robotics-green?style=for-the-badge&logo=github" alt="Focus" />
+    <img src="https://img.shields.io/badge/Role-Undergraduate%20Student-blue?style=for-the-badge&logo=github" alt="Role" />
 </p>
 
 <p align="center">
   <!-- Second Row: Total Stars | Best Tag -->
-  <img src="https://img.shields.io/badge/Role-Undergraduate%20Student-blue?style=for-the-badge&logo=github" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development%20%7C%20Cloud%20%7C%20Robotics-green?style=for-the-badge&logo=github" alt="Focus" />
   <img src="https://img.shields.io/badge/Best%20Tag-Tech%20Enthusiast-orange?style=for-the-badge&logo=github" alt="Best Tag" />
 </p>
 
