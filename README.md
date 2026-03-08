@@ -96,7 +96,7 @@
 <h2 align="center">github Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajithDevPro&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithDevPro&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
