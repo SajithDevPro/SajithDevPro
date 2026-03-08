@@ -1,26 +1,22 @@
 <h1 align="center">Hey 👋, I'm Sajith Nuwan</h1>
 
-<h3 align="center">
-Software Engineering Undergraduate | Aspiring Cloud Engineer | AI & Robotics Enthusiast
-</h3>
+###
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sajithdevpro&color=blue&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech-Enthusiast-orange?style=for-the-badge" />
-</p>
+<br clear="both">
+
+<h3 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h3>
 
 ---
 
-## <h2 align="center">Connect With Me</h2>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
 
-<p align="center">
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="30" width="30" /></a>
-<a href="https://x.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="30" /></a>
-<a href="https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="53" /></a>
-</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
----
+###
 
 # <h2 align="center">🚀 About Me</h2>
 
@@ -41,31 +37,74 @@ Software Engineering Undergraduate | Aspiring Cloud Engineer | AI & Robotics Ent
 
 ---
 
-# <h2>🛠 Languages & Tools</h2>
+###
 
-<p align="center">
+<h4 align="center">Languages and Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,nodejs,mongodb,mysql,postgres,aws,azure,docker,kubernetes,react,firebase,supabase,php,html,css,tailwind,arduino,unity,git,postman,terraform" />
+###
 
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="60" alt="terraform logo"  />
+</div>
+
+###
 
 ---
 
-# <h2>📊 GitHub Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajithDevPro&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithdevpro&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-# <h2>🕹 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sajithdevpro/sajithdevpro/output/pacman-contribution-graph.svg">
-</p>
+###
 
 ---
+
 <h4 align="center">Contribution</h4>
 
 ###
@@ -75,5 +114,5 @@ Software Engineering Undergraduate | Aspiring Cloud Engineer | AI & Robotics Ent
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
 </picture>
----
 
+###
