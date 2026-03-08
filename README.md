@@ -15,10 +15,6 @@
 <a href="https://twitter.com/YOUR_USERNAME" target="blank">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="35" width="35"/>
 </a>
-
-<a href="https://youtube.com/YOUR_CHANNEL" target="blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YouTube.svg" height="35" width="35"/>
-</a>
 </a>
 </p>
 
