@@ -90,7 +90,7 @@
 ###
 
 ---
-<h2 align="center">github Activity</h2>
+<h2 align="center">Activity Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajithDevPro&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
@@ -98,12 +98,14 @@
 
 ###
 
-
+---
 <h2 align="center">Contribution</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
-</picture>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
