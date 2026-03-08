@@ -97,10 +97,6 @@
 </div>
 
 ###
-<h3>Contribution</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 <h2 align="center">Contribution</h2>
@@ -110,4 +106,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
 </picture>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
