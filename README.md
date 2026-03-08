@@ -103,9 +103,7 @@
 
 ---
 
-<h2 align="center">Contribution</h2>
-
-###
+<h4 align="center">Contribution</h4>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph-dark.svg">
@@ -113,4 +111,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SajithDevPro/SajithDevPro/output/pacman-contribution-graph.svg">
 </picture>
 
-###
