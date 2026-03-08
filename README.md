@@ -24,7 +24,6 @@
 - 💻 Interested in **Full Stack Development, Cloud Computing, and Intelligent Systems**  
 - 🧠 Always learning, experimenting, and improving engineering skills  
 
----
 
 # <h2>🧠 Current Focus</h2>
 
