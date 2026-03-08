@@ -11,7 +11,7 @@ Software Engineering Undergraduate | Aspiring Cloud Engineer | AI & Robotics Ent
 
 ---
 
-## 🌐 Connect With Me
+## <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="30" width="30" /></a>
