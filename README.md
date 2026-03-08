@@ -1,7 +1,6 @@
 <h1 align="center">Hey 👋, I'm Sajith Nuwan</h1>
 
 <br clear="both">
-
 <h1 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h2>
 <p align="center">
   <!-- Top Row: Profile Views | Role | Focus -->
@@ -31,8 +30,6 @@
 - 🤖 AI Applications & Robotics Systems  
 - 🌐 Full Stack Web Development  
 - ⚡ Scalable Backend Architecture  
-
----
 
 ###
 
