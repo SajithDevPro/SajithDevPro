@@ -18,7 +18,7 @@
 
 ###
 
-# <h2 align="center">🚀 About Me</h2>
+# <h2>🚀 About Me</h2>
 
 - 🎓 Software Engineering Undergraduate passionate about building impactful technology  
 - ☁️ Aspiring **Cloud Engineer** exploring scalable infrastructure and distributed systems  
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="center">Languages and Tools</h4>
+<h2 align="center">Languages and Tools</h2>
 
 ###
 
@@ -105,7 +105,7 @@
 
 ---
 
-<h4 align="center">Contribution</h4>
+<h2 align="center">Contribution</h2>
 
 ###
 
