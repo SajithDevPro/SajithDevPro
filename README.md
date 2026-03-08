@@ -6,13 +6,24 @@
 
 <h1 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+<p align="center">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" width="35"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME" target="blank">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="35" width="35"/>
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL" target="blank">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/YouTube.svg" height="35" width="35"/>
+</a>
+
+</a>
+
+</p>
+
 
 ###
 
