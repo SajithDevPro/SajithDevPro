@@ -5,18 +5,10 @@
 <br clear="both">
 
 <h1 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h2>
-
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" width="35"/>
-</a>
-
-<a href="https://twitter.com/YOUR_USERNAME" target="blank">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" height="35" width="35"/>
-</a>
-
-</a>
+  <!-- Top Row: Profile Views | Role | Focus -->
+  <img src="https://komarev.com/ghpvc/?username=sajithdevpro&color=blue&style=for-the-badge" alt="Profile Views" />
+   <img src="https://img.shields.io/badge/Best%20Tag-Tech%20Enthusiast-orange?style=for-the-badge&logo=github" alt="Best Tag" />
 </p>
 
 # <h2>🚀 About Me</h2>
