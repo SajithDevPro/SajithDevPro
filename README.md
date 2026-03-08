@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h3>
+<h1 align="center">Software Engineering Undergraduate | Aspiring Cloud <br>Engineer | AI & Robotics Enthusiast</h2>
 
 ---
 
